@@ -1,5 +1,0 @@
-{
-    "DEPLOYMENT_NAME":"deployment-name",
-    "OPENAI_API_BASE":"https://<resource>.openai.azure.com/",
-    "OPENAI_API_VERSION":"api-version"
-}
