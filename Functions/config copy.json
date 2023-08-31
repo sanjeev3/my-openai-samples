@@ -1,7 +1,7 @@
 {
-    "DEPLOYMENT_NAME":"gpt-35-turbo",
-    "OPENAI_API_BASE":"https://sanjeev-pm-test.openai.azure.com/",
-    "OPENAI_API_VERSION":"2023-07-01-preview",
+    "DEPLOYMENT_NAME":"deployment-name",
+    "OPENAI_API_BASE":"https://<resource>.openai.azure.com/",
+    "OPENAI_API_VERSION":"api-version",
     
     "SEARCH_SERVICE_ENDPOINT": "https://<Your Search Service Name>.search.windows.net",
     "SEARCH_INDEX_NAME": "recipes-vectors",
