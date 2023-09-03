@@ -12,7 +12,7 @@ I will mostly be using Azure OpenAI service and credentials  because it's person
 # List
 
 1. **Functions**: Showcases the new "functions" feature with a simple example that transforms the user input into pre-defined functions invoked from the code, and the output sent back to GPT to get a natural language response, completing the semantic-syntactical-semantic loop.
-1. 
+1. **Extraction**: A variation on the OpenAI extraction example that adds numeric data to the input and CSV formatted response, loads it into a dataframe and plots it as a line chart.
 1. 
 1. 
 1. 
