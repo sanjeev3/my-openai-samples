@@ -9,7 +9,7 @@ The samples in the online documentation and here use the [Azure AI Foundry Agent
 ## Enhanced code sample
 The code sample in this folder improves on the quickstart sample with these enhancements:
 
-1. **Research progress**: Just the research progress with the deep research model's thinking progression and `Grounding with Bing Search` citations is saved to a `research_progress.txt` file, not the rest of the agent run that includes the final research report and other logs. Enhancements include:
+1. **Research progress**: Just the research progress with the deep research model's thinking and interim `Grounding with Bing Search` citations is saved to a `research_progress.txt` file, not the rest of the agent run that includes the final research report and other logs. Enhancements include:
    - Each "thnking" log is demarcated by the "Agent>" prefix.
    - Each entry includes the "Reasoning" aka the thinking summary, and the related "Citation" URL as applicable.
 
